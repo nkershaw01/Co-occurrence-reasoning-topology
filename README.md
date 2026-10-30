@@ -101,8 +101,7 @@ count of the task's shortest run. Task names are replaced by hashes.
 - `3_llm_capability_vs_topology/model_responses/` contains the AIME 2026 problem statements from the
   MathArena dataset (<https://huggingface.co/datasets/MathArena/aime_2026>). That dataset is licensed
   CC BY-NC-SA 4.0; please cite MathArena when using it.
-- The OpenAI papers are from <https://github.com/openai/math>. Human-paper metadata (authors, titles,
-  journal references) is from arXiv. No paper text is included.
+- The OpenAI papers are from <https://github.com/openai/math>. Human-paper metadata (authors, titles) is from arXiv. No paper text is included.
 - The prose texts are from Project Gutenberg (<https://www.gutenberg.org>). Only catalogue metadata is
   included.
 - The SHADE-Arena tasks are from J. Kutasov et al., *SHADE-Arena: Evaluating Sabotage and Monitoring in
