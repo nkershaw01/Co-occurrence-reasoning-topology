@@ -1,0 +1,7 @@
+quantity,value
+models,48
+spearman_rho,-0.443986
+spearman_p_one_sided,0.000785962
+within_lab_pairs,196
+within_lab_share_stronger_simpler,0.688776
+within_lab_permutation_p,0.00175

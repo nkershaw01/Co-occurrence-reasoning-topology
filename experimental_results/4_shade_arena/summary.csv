@@ -1,0 +1,6 @@
+quantity,value
+tasks,26
+tasks_benign_simpler,19
+benign_mean,0.363317
+sabotage_mean,0.449245
+wilcoxon_signed_rank_p_one_sided,0.00880677

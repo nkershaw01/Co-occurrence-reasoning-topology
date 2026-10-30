@@ -1,0 +1,15 @@
+quantity,value
+pairs,135
+pairs_human_lower,126
+share_human_lower,0.933333
+wilcoxon_signed_rank_p_one_sided,4.6402e-23
+human_median,0.582546
+human_q1,0.528841
+human_q3,0.625278
+human_mean,0.57752
+human_sd,0.0738198
+openai_median,0.721625
+openai_q1,0.674104
+openai_q3,0.758999
+openai_mean,0.720142
+openai_sd,0.0680819
