@@ -11,7 +11,7 @@ of the paper's four experiments.
 cooccurrence_code/
   cooccurrence_ph.jl             co-occurrence persistent homology (Julia)
 experimental_results/
-  1_reasoning_vs_nonreasoning_prose/   texts.csv, genre_summary.csv, hypothesis_tests.csv
+  1_reasoning_vs_nonreasoning_prose/   texts.csv, genre_summary.csv
   2_openai_vs_human_papers/            pairs.csv, summary.csv
   3_llm_capability_vs_topology/        models.csv, traces.csv, summary.csv, model_responses/
   4_shade_arena/                       runs.csv, tasks.csv, summary.csv
