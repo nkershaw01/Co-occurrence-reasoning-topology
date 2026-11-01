@@ -55,7 +55,6 @@ stories). Each text is cut to 300 sentences taken from its middle.
 |---|---|
 | `texts.csv` | one row per text: genre, Gutenberg eBook number, author, title and the three total-persistence values |
 | `genre_summary.csv` | median and quartiles per genre (Table 1) |
-| `hypothesis_tests.csv` | the four one-sided Mann-Whitney tests: U, p, Hodges-Lehmann shift with 95% bootstrap interval, and Pr(X < Y) (Table 2) |
 
 The texts themselves are not included; each can be found on Project Gutenberg by its eBook number.
 
