@@ -1,5 +1,0 @@
-hypothesis,comparison,mann_whitney_U,p_one_sided,hodges_lehmann_shift,shift_ci95_low,shift_ci95_high,prob_X_less_than_Y
-H1,mathematics < history,41,7.85023e-09,-0.194028,-0.262831,-0.142452,0.928819
-H2,mathematics < stories,8,2.07767e-12,-0.319615,-0.366429,-0.251045,0.986111
-H3,philosophy < history,189,0.0207438,-0.0528401,-0.113756,-0.00325819,0.671875
-H4,philosophy < stories,64,3.2233e-07,-0.187005,-0.226665,-0.110262,0.888889
